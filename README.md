@@ -1,5 +1,6 @@
 # Quantized Deep Neural Network for Defect Detection on Jetson AGX Xavier Using GPU Coder
 ## How to create, train and quantize network, then integrate it into pre/post image processing and generate CUDA C++ code for targeting Jetson AGX Xavier
+[![View Quantized Deep Neural Network for Defect Detection on Jetson on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/77984-quantized-deep-neural-network-for-defect-detection-on-jetson)
 
 Deep Learning is really powerful approach to solve difficult problems(e.g. image classification, segmentation and detection). However, performing inference using deep learning is computationally intensive, consuming significant amount of memory. Even networks that are small in size require a considerable amount of memory and hardware to perform these arithmetic operations. These restrictions can inhibit deloyment of deep learning networks to devices that have low computational power and smaller momory resources.
 
