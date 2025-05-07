@@ -58,7 +58,7 @@ This example demonstrates how to:
 - CUDA Deep Neura Network library (cuDNN)
 - Open Source Computer Vision Library v3.1.0 or higher for reading and displaying images/video
 - Environment variables on the target for the compilers and libraries. 
-For information on the supported versions of the compilers and libraries and their setup, see [installing and setting up prerequisites for NVIDIA boards](https://www.mathworks.com/help/coder/supportpkg/nvidia/ug/install-and-setup-prerequisites.html)
+For information on the supported versions of the compilers and libraries and their setup, see [installing and setting up prerequisites for NVIDIA boards](https://www.mathworks.com/help/coder/nvidia/ug/install-and-setup-prerequisites.html)
 
 --------------------------------------------------------------------------------
 
